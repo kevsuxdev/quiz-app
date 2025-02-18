@@ -1,0 +1,14 @@
+# Environment
+.env
+
+# Dependency
+node_modules
+
+# Build files (if applicable)
+dist/
+build/
+
+# IDE-specific files (optional)
+.vscode/
+.idea/
+.DS_Store
